@@ -44,7 +44,7 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](License.md) para mais detalhes.
 
 ---
 
