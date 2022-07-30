@@ -24,12 +24,13 @@ export const HistoryList = styled.div`
   margin-top: 2rem;
 
   table {
-    width: 50%;
+    width: 100%;
     border-collapse: collapse;
     min-width: 600px;
 
     @media (max-width: 550px) {
       min-width: 420px;
+      width: 50%;
     }
 
     th {
